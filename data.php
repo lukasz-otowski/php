@@ -1,7 +1,7 @@
 <?php
 
-namespace Space\Data;
+namespace Mind_lobes\Data;
 
 function text(){
-    echo "Hello world";
+    echo "Frontal lobe, parietal lobe, temporal lobe, occipital lobe";
 }

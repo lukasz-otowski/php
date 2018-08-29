@@ -4,7 +4,7 @@ require_once 'data.php';
 require_once 'variables.php';
 
 //calling namespace form data.php
-use function Space\Data\text;
+use function Mind_lobes\Data\text;
 
 //calling class from namespace Space\Variables
 use Mind_var\Variables\all_variables;
