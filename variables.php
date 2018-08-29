@@ -1,13 +1,13 @@
 <?php
 
-namespace Space\Variables;
+namespace Mind_var\Variables;
 
 class all_variables
     {
     
         function vars_value(){
-        $val = 'value';
-        echo "<br>", $val;
+        $astro = 'astrocytes';
+        echo "<br>", $astro;
         }
     
         function more(){
